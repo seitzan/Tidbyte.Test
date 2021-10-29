@@ -18,6 +18,34 @@ def main(config):
                         content = now.format("You"),
                         font = "6x13",
                     ),
+                    render.Text(
+                        content = now.format("Crazy"),
+                        font = "6x13",
+                    ),
+                    render.Text(
+                        content = now.format("Are"),
+                        font = "6x13",
+                    ),
+                    render.Text(
+                        content = now.format("You"),
+                        font = "6x13",
+                    ),
+                    render.Text(
+                        content = now.format("Out"),
+                        font = "6x13",
+                    ),
+                    render.Text(
+                        content = now.format("Of"),
+                        font = "6x13",
+                    ),
+                    render.Text(
+                        content = now.format("Your"),
+                        font = "6x13",
+                    ),
+                    render.Text(
+                        content = now.format("Mind?"),
+                        font = "6x13",
+                    ),
                 ],
             ),
         ),
