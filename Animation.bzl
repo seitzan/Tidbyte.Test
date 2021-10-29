@@ -19,7 +19,7 @@ def main(config):
                         font = "6x13",
                     ),
                     render.Text(
-                        content = now.format("Crazy"),
+                        content = now.format("Crazy?"),
                         font = "6x13",
                     ),
                     render.Text(
